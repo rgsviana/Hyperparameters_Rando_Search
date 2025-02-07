@@ -1,1 +1,1 @@
-# Hyperparameters_Rando_Search
+# Hyperparameters_Random_Search
